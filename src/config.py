@@ -2,3 +2,4 @@
 
 APP_NAME = "git-exp-branch"
 VERSION = "v1-initial"
+B3 config change
