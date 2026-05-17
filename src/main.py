@@ -13,4 +13,8 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+<<<<<<< HEAD
 B3 different modification 1
+=======
+C4 modification 1
+>>>>>>> C4
