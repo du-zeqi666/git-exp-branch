@@ -1,2 +1,7 @@
-# git-exp-branch
-Software Engineering Git experiment: branch management and remote branch operations for R8-R18.
+# Git Branch Experiment - Initial Repository
+
+This is the **initial version** of a simple Software Engineering Git experiment repository.
+
+Purpose:
+- Provide a clean baseline for future branch operations.
+- Keep files simple for commit, merge, and conflict practice.
