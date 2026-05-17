@@ -1,0 +1,2 @@
+Initial sample data file for Git branch experiment.
+record=sample_v1
